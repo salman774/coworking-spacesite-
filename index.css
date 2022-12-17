@@ -69,8 +69,24 @@ section:nth-of-type(2) img {
 
 section:nth-of-type(2) div {
     padding: 5px;
-    font-size: 20px;
-    text-align: center;
+    font-size: 50px;
+
+}
+
+.caption {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+section:nth-of-type(2) div button {
+    padding: 30px 80px;
+    background-color: rgb(192, 113, 113);
+    color: white;
+    margin-left: 20px;
+    font-size: 50px;
+    font-weight: bold;
+
 }
 
 .exclusive {
@@ -97,10 +113,19 @@ section:nth-of-type(3) img {
 
 section:nth-of-type(3) div {
     padding: 5px;
-    font-size: 20px;
-    text-align: center;
+    font-size: 50px;
+}
+
+section:nth-of-type(3) div button {
+    padding: 30px 80px;
+    background-color: rgb(35, 102, 32);
+    color: white;
+    margin-left: 20px;
+    font-size: 50px;
+    font-weight: bold;
 
 }
+
 
 /* section-4 */
 section:nth-of-type(4) img {
@@ -110,6 +135,14 @@ section:nth-of-type(4) img {
 
 section:nth-of-type(4) div {
     padding: 5px;
-    font-size: 20px;
-    text-align: center;
+    font-size: 50px;
+}
+
+section:nth-of-type(4) div button {
+    padding: 30px 80px;
+    background-color: rgb(87, 77, 19);
+    color: white;
+    margin-left: 20px;
+    font-size: 50px;
+    font-weight: bold;
 }
