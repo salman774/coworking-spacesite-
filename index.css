@@ -17,7 +17,7 @@ nav {
     color: whitesmoke;
     width: 100%;
     height: auto;
-    padding: 5px;
+    padding: 0.3125rem;
 }
 
 nav {
@@ -87,6 +87,7 @@ section:nth-of-type(2) div button {
     margin-left: 20px;
     font-size: 50px;
     font-weight: bold;
+    cursor: pointer;
 
 }
 
@@ -124,7 +125,7 @@ section:nth-of-type(3) div button {
     margin-left: 20px;
     font-size: 50px;
     font-weight: bold;
-
+    cursor: pointer;
 }
 
 
@@ -146,4 +147,5 @@ section:nth-of-type(4) div button {
     margin-left: 20px;
     font-size: 50px;
     font-weight: bold;
+    cursor: pointer;
 }
